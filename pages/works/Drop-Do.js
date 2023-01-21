@@ -24,7 +24,7 @@ import {
           <ListItem>
             <Meta>Website</Meta>
             <Link href="https://expo.dev/@slowrun/animated-todo">
-              Yet to Update  <ExternalLinkIcon mx="2px" />
+              https://expo.dev  <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
           <ListItem>
