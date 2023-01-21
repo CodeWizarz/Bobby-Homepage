@@ -23,7 +23,7 @@ import {
         <List ml={4} my={4}>
           <ListItem>
             <Meta>Website</Meta>
-            <Link href="#/works/DropDo">
+            <Link href="https://expo.dev/@slowrun/animated-todo">
               Yet to Update  <ExternalLinkIcon mx="2px" />
             </Link>
           </ListItem>
