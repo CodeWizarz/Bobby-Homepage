@@ -1,8 +1,7 @@
-# NEXTjs-HomePage
+# Bobby's-HomePage
 My Homepage(not a constant😅 )
-# Takuya's Homepage
 
-[https://nex-tjs-home-page.vercel.app/](https://nex-tjs-home-page.vercel.app//)
+[https://bobby-homepage.vercel.app/](https://bobby-homepage.vercel.app/)
 
 ## Stack
 
