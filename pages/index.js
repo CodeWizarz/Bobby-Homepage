@@ -68,7 +68,7 @@ const Page = () => {
         </BioSection>
         <BioSection>
             <BioYear>2020</BioYear>
-            Completed My SSLC (Secondary School Leaving Certifictae)
+            Completed My SSLC (Secondary School Leaving Certificate)
         </BioSection>
         <BioSection>
             <BioYear>2023</BioYear>
