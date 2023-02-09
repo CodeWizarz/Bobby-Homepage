@@ -1,7 +1,7 @@
 # Bobby's-HomePage
 My Homepage(not a constant😅 )
 
-[https://bobby-homepage.vercel.app/](https://bobby-homepage.vercel.app/)
+[https://CodeWizz.vercel.app/](https://CodeWizz.vercel.app/)
 
 ## Stack
 
